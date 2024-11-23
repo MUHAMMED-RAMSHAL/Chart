@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@antv/auto-chart": "^2.0.5-alpha.0",
+    "chart.js": "^4.4.6",
+    "react-chart.js": "^1.0.0",
+    "react-chartjs-2": "^5.2.0"
+  }
+}
